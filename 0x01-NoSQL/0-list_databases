@@ -1,0 +1,3 @@
+// show every database that is used in a session.
+
+show dbs

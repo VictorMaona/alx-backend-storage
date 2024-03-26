@@ -1,0 +1,2 @@
+// script that enumerates each document in the school's collection.
+db.school.find()
